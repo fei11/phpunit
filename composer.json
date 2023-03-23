@@ -12,9 +12,9 @@
         }
     ],
     "require": {
-        "ext-swoole": "^4.4.0",
+        "ext-swoole": ">=4.4.0",
         "phpunit/phpunit": "^9.3",
-        "easyswoole/command": "^1.1"
+        "fei11/command": "^1.1"
     },
     "require-dev": {
         "easyswoole/swoole-ide-helper": "*"
